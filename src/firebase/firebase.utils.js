@@ -3,13 +3,14 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14",
-  authDomain: "crwn-db.firebaseapp.com",
-  databaseURL: "https://crwn-db.firebaseio.com",
-  projectId: "crwn-db",
-  storageBucket: "crwn-db.appspot.com",
-  messagingSenderId: "850995411664",
-  appId: "1:850995411664:web:7ddc01d597846f65",
+  apiKey: "AIzaSyBncs-yyPmNaQTTTaBBS8DPB3K0rdVmvPw",
+  authDomain: "perdikals-store-db.firebaseapp.com",
+  databaseURL: "https://perdikals-store-db.firebaseio.com",
+  projectId: "perdikals-store-db",
+  storageBucket: "perdikals-store-db.appspot.com",
+  messagingSenderId: "685945315446",
+  appId: "1:685945315446:web:ba196ba620c2cd6431ff57",
+  measurementId: "G-GC9SQRH6LT",
 };
 
 firebase.initializeApp(config);
